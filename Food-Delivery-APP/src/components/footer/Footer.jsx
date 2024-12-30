@@ -20,10 +20,10 @@ const Footer = () => {
         <div className='footer-content-center'>
             <h2>COMPANY</h2>
            <ul>
-            <li>Home</li>
-            <li>About us</li>
-            <li>Delivery</li>
-            <li>Privacy Policy</li>
+           <a href='#home-page'> <li>Home</li></a>
+           <a href='#home-page'><li>About us</li></a>
+           <a href='#home-page'><li>Delivery</li></a>
+           <a href='#home-page'><li>Privacy Policy</li></a>
            </ul>
 
         </div>
